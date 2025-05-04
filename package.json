@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "dependencies": {
+    "gsap": "^3.12.5",
+    "stream-consumers": "^1.0.2",
+    "three": "^0.166.1"
+  },
+  "devDependencies": {
+    "vite": "^5.4.19"
+  },
+  "scripts": {
+    "dev": "vite",
+    "start": "vite preview"
+  }
+}
+
